@@ -465,7 +465,8 @@ def pilih_super():
               👉👉👉👉Blank Mafia Father of abal👈👈👈👈
           👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
-	menu()
+	
+menu()
 
 
 if __name__ == '__main__':
