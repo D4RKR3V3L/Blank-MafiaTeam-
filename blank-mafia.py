@@ -453,11 +453,23 @@ def pilih_super():
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
-	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
+	print """
+	
+	╭╮╮╱▔▔▔▔╲╭╭╮
+    ╰╲╲▏▂╲╱▂▕╱╱╯
+    ┈┈╲▏▇▏▕▇▕╱┈┈
+    ┈┈╱╲▔▕▍▔╱╲┈┈
+    ╭╱╱▕╋╋╋╋▏╲╲╮
+    ╰╯╯┈╲▂▂╱┈╰╰╯"""
+    
+    print"\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈"    
+               print"\033[1;97m👉👉👉👉Blank Mafia Father of abal👈👈👈👈"
+                print"\033[1;97m👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"
+
+
+raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-print"\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈"    
-print"\033[1;97m👉👉👉👉Blank Mafia Father of abal👈👈👈👈"
-print"\033[1;97m👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"
+
 if __name__ == '__main__':
 	login()
