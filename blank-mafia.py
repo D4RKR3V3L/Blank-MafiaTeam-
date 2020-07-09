@@ -456,7 +456,6 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-       print"\\033[1;93mWe make a system and fuck any system.."
                          We are father of abal
                          Dark Revel Rakib_Vau
 
