@@ -456,7 +456,7 @@ def pilih_super():
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 
-:\033[1;97m👉👉👉👉👉👉We make a system and fuck any system👈👈👈👈👈👈       
+print"\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈"    
 
 if __name__ == '__main__':
 	login()
