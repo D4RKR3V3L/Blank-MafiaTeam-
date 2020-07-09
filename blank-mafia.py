@@ -457,7 +457,7 @@ def pilih_super():
 	menu()
 
 print"\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈"    
-print"\033[1;97m👉👉👉👉Blank Mafia Father of abal👈👈👈👈"\033[1;93m :
-                                          👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹
+print"\033[1;97m👉👉👉👉Blank Mafia Father of abal👈👈👈👈"
+print"\033[1;97m👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"
 if __name__ == '__main__':
 	login()
