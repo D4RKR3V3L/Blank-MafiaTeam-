@@ -466,7 +466,7 @@ def pilih_super():
           👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
-Print"\033[1;96Dark Revel Rakib_vau member on Blank Mafia Team"
+print"\033[1;96Dark Revel Rakib_vau member on Blank Mafia Team"
 
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
