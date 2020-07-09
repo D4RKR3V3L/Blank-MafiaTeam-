@@ -48,10 +48,10 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
-                      ☣️☢️DarkRevel-Rakib_vau☢️☣️ 
-                         ♠I Am From Bangladesh♠
-                  ⛔I am worked in Blank Mafia Team⛔
-                        🔥 Stay_Home - Stay_Safe 🔥
+             ☣️☢️DarkRevel-Rakib_vau☢️☣️ 
+                  ♠I Am From Bangladesh♠
+        ⛔I am worked in Blank Mafia Team⛔
+                 🔥 Stay_Home - Stay_Safe 🔥
            
         ♠👉 Welcome To Our Worldest👈♠
         ♠👉Unlimited Cloning Github👈♠
@@ -72,7 +72,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
              ███████████████ 
                                                  
               
-                 Blank Mafia Team
+              Blank Mafia Team
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕ ▇
@@ -86,7 +86,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
       ♠👉Than Clon Accounts You Think👈♠
     ♠👉Do Not Use Your Personal Account👈♠
        🤘👉This Github Was Full Secure👈🤘
-            ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
+          ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
          ♥️♥️ Blank Mafia Team ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m DarkRevel-Rakib_vau
@@ -465,7 +465,10 @@ def pilih_super():
               👉👉👉👉Blank Mafia Father of abal👈👈👈👈
           👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
-	
+
+
+raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
+
 menu()
 
 
