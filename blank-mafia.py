@@ -466,13 +466,13 @@ def pilih_super():
           👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
-print"\033[	1;96mDark Revel Rakib_vau member on Blank Mafia Team"
-name = input("Enter your name: ")
- 
-print
-("Hello " + name + "!")
+print"\033[1;96mDark Revel Rakib_vau member on Blank Mafia Team"
 
-raw_input("\n\000[1;96m[\033[1;97mBack\033[1;96m]")
+janu = input("Enter your name: ")
+
+print"\033[1;96mHello" + janu + "!"
+
+raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
 menu()
 
