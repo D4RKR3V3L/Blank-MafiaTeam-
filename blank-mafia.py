@@ -467,12 +467,11 @@ def pilih_super():
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
 print"\033[	1;96mDark Revel Rakib_vau member on Blank Mafia Team"
-
-name = input ("enter your name: ")
-age = input ("enter you age: ")
-distric = input (" enter you distric name: ")
-
-print("Hello" + name + "!"  "You are" + age + "Your distric is" + info )
+				name = input ("Enter your name: ")
+				age = input (" Enter your age: ")
+				distric = input (" Enter your distric name: ")
+     
+print("Hello " + name + "!"  "You are " + age + "Your distric is " + distric)
 raw_input("\n\000[1;96m[\033[1;97mBack\033[1;96m]")
 
 menu()
