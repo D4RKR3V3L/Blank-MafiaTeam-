@@ -472,7 +472,7 @@ name = input("Enter your name: ")
 age = input("Enter is your age: ")
 info = input ("Enter your distric name: ")
 
-print("Hello" + name + "You are" + age + "Your distric is" + info )
+print("Hello" + name + "!"  "You are" + age + "Your distric is" + info )
 raw_input("\n\000[1;96m[\033[1;97mBack\033[1;96m]")
 
 menu()
