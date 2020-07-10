@@ -455,7 +455,7 @@ def pilih_super():
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	print """
 	
-	╭╮╮╱▔▔▔▔╲╭╭╮
+    ╭╮╮╱▔▔▔▔╲╭╭╮
     ╰╲╲▏▂╲╱▂▕╱╱╯
     ┈┈╲▏▇▏▕▇▕╱┈┈
     ┈┈╱╲▔▕▍▔╱╲┈┈
