@@ -131,10 +131,6 @@ print " \x1b[1;93m============================================================="
 CorrectUsername = "BlankMafia"
 CorrectPassword = "SGHB"
 
-name = input("Enter your name: ")
-age = input(" Enter your age: ")
-
-print(" Hello" + name + "! you are " + age)
 
 loop = 'true'
 while (loop == 'true'):
@@ -473,6 +469,13 @@ raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
 print"\033[1;96mDark Revel Rakib_vau member on Blank Mafia Team"
 
+name = input("What is your name? ")
+age = input(" What is your age? ")
+live = input("Where are you living? ")
+
+print(" Hello", name)
+print("you are", age)
+print("you living", live)
 
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
