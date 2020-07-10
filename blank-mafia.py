@@ -468,9 +468,6 @@ raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
 print"\033[1;96mDark Revel Rakib_vau member on Blank Mafia Team"
 
-janu = input("Enter your name: ")
-
-print("Hello" + janu + "!")
 
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
