@@ -468,9 +468,9 @@ raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
 print"\033[1;96mDark Revel Rakib_vau member on Blank Mafia Team"
 
-name = input("Enter your name: ")
-age = input("Enter is your age: ")
-info = input ("Enter your distric name: ")
+name = input ("Enter your name: ")
+age = input ("Enter is your age: ")
+info = input  ("Enter your distric name: ")
 
 print("Hello" + name + "!"  "You are" + age + "Your distric is" + info )
 raw_input("\n\000[1;96m[\033[1;97mBack\033[1;96m]")
@@ -479,4 +479,4 @@ menu()
 
 
 if __name__ == '__main__':
-	login()
+	loinput 
