@@ -48,10 +48,15 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
-             ☣️☢️DarkRevel-Rakib_vau☢️☣️ 
+                 ☣️☢️DarkRevel-Rakib_vau☢️☣️ 
                   ♠I Am From Bangladesh♠
-        ⛔I am worked in Blank Mafia Team⛔
+            ⛔I am worked in Black While Team⛔
                  🔥 Stay_Home - Stay_Safe 🔥
+           
+              👹👹Black While team👹👹 
+         🔱🔱Founder- Anirban sumon🔱🔱
+              ♎♎CEO - Rakib_vau ♎♎
+                  ⚓Chairman- Priyojit⚓⚓
            
         ♠👉 Welcome To Our Worldest👈♠
         ♠👉Unlimited Cloning Github👈♠
@@ -64,7 +69,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
              █████████ 
              ██████ 
              ███ 
-             👹 Blank Mafia 👹 
+             👹 Black While 👹 
              ███ 
              ██████ 
              ██████████ 
@@ -72,7 +77,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
              ███████████████ 
                                                  
               
-              Blank Mafia Team
+              Black While Team
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕ ▇
@@ -87,11 +92,12 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
     ♠👉Do Not Use Your Personal Account👈♠
        🤘👉This Github Was Full Secure👈🤘
           ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
-         ♥️♥️ Blank Mafia Team ♥️♥️
+                ♥️♥️ Black While ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m DarkRevel-Rakib_vau
 \033[1;96mFacebook  \033[1;93m: \033[1: i.am.a.Dark.membar.on.BM.Team
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Blank_Mafia
+Team name = Black while cyber source/We are sillent killer
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Black_While
 \033[1;91m======================================="""
 
 def tik():
@@ -112,10 +118,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
-               Blank Mafia Team     
+               Black While Team     
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
-                ▇▏▃▆▅▎▅▆▃ ▕▇                 
+                ▇▏▃▆▅▎▅▆▃ ▕▇    
                 ▇▏╱▔▕▎▔▔╲ ▕▇
                 ▇◣◣▃▅▎▅▃◢◢▇
                 ▇▇◣◥▅▅▅◤◢▇▇
@@ -124,12 +130,12 @@ print  """\033[1;91m
                    
 \033[1;96mAuthor  \033[1;93m: \033[1;92m DarkRevel-Rakib_vau
 \033[1;96mFacebook  \033[1;93m: \033[1;92m i.am.a.Dark.membar.on.BM.Team
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Blank_mafia
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Black_While
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "BlankMafia"
-CorrectPassword = "SGHB"
+CorrectUsername = "BlackWhile"
+CorrectPassword = "SRP"
 
 
 loop = 'true'
@@ -463,24 +469,46 @@ def pilih_super():
     ╭╱╱▕╋╋╋╋▏╲╲╮
     ╰╯╯┈╲▂▂╱┈╰╰╯
 :\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈:\033[1;93m
-              👉👉👉👉Blank Mafia Father of abal👈👈👈👈
+              👉👉👉👉Black While Father of abal👈👈👈👈
           👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
 raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 
-print"\033[1;96mDark Revel Rakib_vau member on Blank Mafia Team"
+print"\033[1;96mDark Revel Rakib_vau member on Black While Team"
 
-name = input("What is your name? ")
-age = input(" What is your age? ")
-live = input("Where are you living? ")
+FounderName = "anirban"
+CEOName = "rakib"
+ChairmanName = "priyojit"
 
-print(" Hello", name)
-print("you are", age)
-print("you living", live)
+loop = "true"
+while (loop == "true"):
+	foundername = raw_input("\033[1;96m[☆] \x1b[1;93mFounderName Of Tool \x1b[1;96m>>>> ")
+if (founder == FounderName):
+    print("Anirban is Team Founder")
+ceoname = raw_input(" \033[1;96m[#]\x1b[1;93mCEOName Of Tool \x1b[1;96m>>>>")
+ if (ceoname == CEOName):
+print("Rakib is Team CEO")
+   chairmanname = raw_input("033[1;96m[#]\1b[1;93mChairmanName Of Tool \x1b[1;96m>>>>")
+if (chairmanname= ChairmanName):
+	print "your Data is right&Welcome our site" + ceoname
+	loop = "false"
+else
+	print("Wrong Founder Name")
+	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.member.on.bm.Team /")
+	
+	else
+	print("Wrong CEO Name")
+	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.membar.on.bm.Team /")
+	
+	else
+	print("Wrong Chairman Name")
+	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.membar.on.bm.Team /")
 
-raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
+raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m"]
+
+
 
 menu()
 
 
 if __name__ == '__main__':
-	loageut 
+	login()
