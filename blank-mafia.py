@@ -485,7 +485,7 @@ while (loop == "true"):
 if (founder == FounderName):
     print("Anirban is Team Founder")
 ceoname = raw_input(" \033[1;96m[#]\x1b[1;93mCEOName Of Tool \x1b[1;96m>>>>")
- if (ceoname ==  CEOName):
+ if (ceoname == CEOName):
 print("Rakib is Team CEO")
    chairmanname = raw_input("033[1;96m[#]\1b[1;93mChairmanName Of Tool \x1b[1;96m>>>>")
 if (chairmanname= ChairmanName):
