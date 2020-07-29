@@ -48,40 +48,28 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
-                 ☣️☢️DarkRevel-Rakib_vau☢️☣️ 
-                  ♠I Am From Bangladesh♠
-            ⛔I am worked in Black While Team⛔
-                 🔥 Stay_Home - Stay_Safe 🔥
-           
-              👹👹Black While team👹👹 
-         🔱🔱Founder- Anirban sumon🔱🔱
-              ♎♎CEO - Rakib_vau ♎♎
-                  ⚓Chairman- Priyojit⚓⚓
+                ☣️☢️IkRaM_VaU☢️☣️ 
+            ♠I Am From Bangladesh♠
+          🔥 Stay_Home - Stay_Safe 🔥
            
         ♠👉 Welcome To Our Worldest👈♠
         ♠👉Unlimited Cloning Github👈♠
   
 
 
->> 
-             ███████████████ 
-             ████████████ 
-             █████████ 
-             ██████ 
-             ███ 
-             👹 Black While 👹 
-             ███ 
-             ██████ 
-             ██████████ 
-             █████████████ 
-             ███████████████ 
+╭━━┳╮╱╭━━━╮╱╱╭━╮╭━╮╭╮╱╱╭╮╱╭╮╱╭╮
+╰┫┣┫┃╱┃╭━╮┃╱╱┃┃╰╯┃┃┃╰╮╭╯┃╱┃┃╱┃┃
+╱┃┃┃┃╭┫╰━╯┣━━┫╭╮╭╮┃╰╮┃┃╭┻━┫┃╱┃┃
+╱┃┃┃╰╯┫╭╮╭┫╭╮┃┃┃┃┃┃╱┃╰╯┃╭╮┃┃╱┃┃
+╭┫┣┫╭╮┫┃┃╰┫╭╮┃┃┃┃┃┃╱╰╮╭┫╭╮┃╰━╯┃
+╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
                                                  
               
-              Black While Team
+                 IkRaM_VaU
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
-                ▇▏▃▆▅▎▅▆▃▕ ▇
-                ▇▏╱▔▕▎▔▔╲    ▇
+                ▇▏▃▆▅▎▅▆▃▕▇
+                ▇▏╱▔▕▎▔▔╲ ▇
                 ▇◣◣▃▅▎▅▃◢◢▇
                 ▇▇◣◥▅▅▅◤◢▇▇
                 ▇▇▇◣╲▇╱◢▇▇▇
@@ -91,13 +79,13 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
       ♠👉Than Clon Accounts You Think👈♠
     ♠👉Do Not Use Your Personal Account👈♠
        🤘👉This Github Was Full Secure👈🤘
-          ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
-                ♥️♥️ Black While ♥️♥️
+            ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
+         ♥️♥️ YouR HelP Our Happiness ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m DarkRevel-Rakib_vau
-\033[1;96mFacebook  \033[1;93m: \033[1: i.am.a.Dark.membar.on.BM.Team
-Team name = Black while cyber source/We are sillent killer
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Black_While
+\033[1;96mAuthor  \033[1;93m: \033[1;92m IkRam_Vau
+\033[1;96mInstagram \033[1;93m: \033[1: IkRam_Vau
+\033[1;96mFacebook  \033[1;93m: \033[1: IkRam_Vau.0
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/IkRam_Vau/IkRam_Vau
 \033[1;91m======================================="""
 
 def tik():
@@ -118,25 +106,33 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
-               Black While Team     
+
+
+╭━━┳╮╱╭━━━╮╱╱╭━╮╭━╮╭╮╱╱╭╮╱╭╮╱╭╮
+╰┫┣┫┃╱┃╭━╮┃╱╱┃┃╰╯┃┃┃╰╮╭╯┃╱┃┃╱┃┃
+╱┃┃┃┃╭┫╰━╯┣━━┫╭╮╭╮┃╰╮┃┃╭┻━┫┃╱┃┃
+╱┃┃┃╰╯┫╭╮╭┫╭╮┃┃┃┃┃┃╱┃╰╯┃╭╮┃┃╱┃┃
+╭┫┣┫╭╮┫┃┃╰┫╭╮┃┃┃┃┃┃╱╰╮╭┫╭╮┃╰━╯┃
+╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
+                 IkRam_VaU       
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
-                ▇▏▃▆▅▎▅▆▃ ▕▇                 
-                ▇▏╱▔▕▎▔▔╲ ▕▇
+                ▇▏▃▆▅▎▅▆▃▕▇                 
+                ▇▏╱▔▕▎▔▔╲▕▇
                 ▇◣◣▃▅▎▅▃◢◢▇
                 ▇▇◣◥▅▅▅◤◢▇▇
                 ▇▇▇◣╲▇╱◢▇▇▇
                 ▇▇▇▇◣▇◢▇▇▇▇           
                    
-\033[1;96mAuthor  \033[1;93m: \033[1;92m DarkRevel-Rakib_vau
-\033[1;96mFacebook  \033[1;93m: \033[1;92m i.am.a.Dark.membar.on.BM.Team
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/darkrevel/Black_While
+\033[1;96mAuthor  \033[1;93m: \033[1;92m IkRam_Vau
+\033[1;96mInstagram \033[1;93m: \033[1;92m IkRam_Vau
+\033[1;96mFacebook  \033[1;93m: \033[1;92m IkRam_Vau.0
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/IkRam_Vau/IkRam_Vau
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "BlackWhile"
-CorrectPassword = "SRP"
-
+CorrectUsername = "IkRam_Vau"
+CorrectPassword = "JoY"
 
 loop = 'true'
 while (loop == 'true'):
@@ -148,10 +144,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/i.am.a.Dark.membar.on.BM.Team/')
+            os.system('xdg-open https://www.facebook.com/IkRaM.VaU.0/ ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.facebook.com/i.am.a.Dark.membar.on.BM.Teaming / ')
+        os.system('xdg-open  https://www.facebook.com/IkRaM.VaU.0/ ')
 
 def login():
 	os.system('clear')
@@ -460,56 +456,8 @@ def pilih_super():
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
-	print """
-	
-	╭╮╮╱▔▔▔▔╲╭╭╮
-    ╰╲╲▏▂╲╱▂▕╱╱╯
-    ┈┈╲▏▇▏▕▇▕╱┈┈
-    ┈┈╱╲▔▕▍▔╱╲┈┈
-    ╭╱╱▕╋╋╋╋▏╲╲╮
-    ╰╯╯┈╲▂▂╱┈╰╰╯
-:\033[1;97m👉👉👉👉We make a system and fuck any system👈👈👈👈:\033[1;93m
-              👉👉👉👉Black While Father of abal👈👈👈👈
-          👹👹👹👹 Dark Revel Rakib_Vau👹👹👹👹"""
-raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
-
-print"\033[1;96mDark Revel Rakib_vau member on Black While Team"
-
-FounderName = "anirban"
-CEOName = "rakib"
-ChairmanName = "priyojit"
-
-loop = "true"
-while (loop == "true"):
-	foundername = raw_input("\033[1;96m[☆] \x1b[1;93mFounderName Of Tool \x1b[1;96m>>>> ")
-if (founder == FounderName):
-    print("Anirban is Team Founder")
-ceoname = raw_input(" \033[1;96m[☆]\x1b[1;93mCEOName Of Tool \x1b[1;96m>>>>")
-if (ceoname == CEOName):
-print("\033[1;96mRakib is Team CEO")
-   chairmanname = raw_input("\033[1;96m[☆]\1b[1;93mChairmanName Of Tool \x1b[1;96m>>>>")
-if (chairmanname= ChairmanName):
-	print ("\033[1;97mPriyojit is Team Chairman")
-	print ("your Data is right&Welcome our site")
-	loop = "false"
-else
-	print("Wrong Founder Name")
-	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.member.on.bm.Team /")
-	
-	else
-	print("Wrong CEO Name")
-	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.membar.on.bm.Team /")
-	
-	else
-	print("Wrong Chairman Name")
-	so.system("xdg-open https://www.facebook.com/i.am.a.Dark.membar.on.bm.Team /")
-
-raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m"]
-
-
-
-menu()
-
+	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
+	menu()
 
 if __name__ == '__main__':
 	login()
